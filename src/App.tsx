@@ -1,7 +1,14 @@
 import React from 'react';
 
+import styled from 'styled-components';
+
+const Title = styled.h1`
+  font-size: 30px;
+  color: blue;
+`
+
 function App() {
-  return <div>Hello</div>;
+  return <Title>Hello World</Title>
 }
 
 export default App;
