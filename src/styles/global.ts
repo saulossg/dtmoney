@@ -31,7 +31,16 @@ html {
 
 body {
     background: var(--background);
-    --webkit-font-smoothing: aliliased;
+    -webkit-font-smoothing: antialiased;
+}
+
+body, textarea, input, button {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+    font-weight: 600;
 }
 
 button {
