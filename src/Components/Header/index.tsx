@@ -9,7 +9,7 @@ export function Header() {
 		<Content>
 			<img src={logo} alt='log svg' />
 			<button type="submit">
-				Nova transação
+				Nova transação....
 			</button>
 		</Content>
 	</Container>
