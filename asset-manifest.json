@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/dtmoney/static/js/main.d2515806.js",
+    "main.js": "/dtmoney/static/js/main.d5d12ced.js",
     "static/media/logo.svg": "/dtmoney/static/media/logo.614d71d1db9fdf3ca2355f05ed3b0142.svg",
     "index.html": "/dtmoney/index.html",
-    "main.d2515806.js.map": "/dtmoney/static/js/main.d2515806.js.map"
+    "main.d5d12ced.js.map": "/dtmoney/static/js/main.d5d12ced.js.map"
   },
   "entrypoints": [
-    "static/js/main.d2515806.js"
+    "static/js/main.d5d12ced.js"
   ]
 }
